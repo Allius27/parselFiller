@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>688</width>
+    <width>768</width>
     <height>520</height>
    </rect>
   </property>
@@ -61,6 +61,11 @@
       <column>
        <property name="text">
         <string>Индекс</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Трек</string>
        </property>
       </column>
      </widget>
